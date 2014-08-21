@@ -1,4 +1,4 @@
 fluent-conduit-remote
 =====================
 
-conduitとlibssh2とfluent
+conduitとlibssh2とfluent の実験
